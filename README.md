@@ -30,4 +30,4 @@ Requirements:
 
   The detailed analysis and breakdown of the entire project, including all steps and methodologies, can be found in the accompanying Project Report. This report provides a comprehensive explanation of the dataset, model creation, training process, evaluation, and fine-tuning steps involved in this project.
 
-Link to Project Report
+Project_Report.pdf
