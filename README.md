@@ -30,4 +30,5 @@ Requirements:
 
   The detailed analysis and breakdown of the entire project, including all steps and methodologies, can be found in the accompanying Project Report. This report provides a comprehensive explanation of the dataset, model creation, training process, evaluation, and fine-tuning steps involved in this project.
 
-Project_Report.pdf
+[Project_Report.pdf
+](https://github.com/eirinilik/COVID-19-Chest-X-Ray-Classification-using-CNNs/blob/57277b6f0f2a46ebd18b6fcce9905b920bd2f095/Project_Report.pdf)
