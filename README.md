@@ -1,6 +1,7 @@
 COVID-19 Chest X-ray Classification using Convolutional Neural Networks (CNNs)
 
-This project is focused on the classification of chest X-ray images into four categories: Normal, Lung Opacity, Viral Pneumonia, and COVID-19 using Convolutional Neural Networks (CNNs). The goal is to explore and train different CNN architectures for automatic categorization, which can help in diagnosing COVID-19 and other lung diseases based on medical imaging.
+This project, conducted as part of the Data Mining course at Harokopio University, focuses on the classification of chest X-ray images into four categories: Normal, Lung Opacity, Viral Pneumonia, and COVID-19, using Convolutional Neural Networks (CNNs). The goal is to explore and train different CNN architectures for automatic categorization of medical images, which can aid in the diagnosis of COVID-19 and other lung diseases.
+
 Objective:
 
 The objective of this exercise is to become familiar with creating and training Convolutional Neural Networks (CNNs) for the automatic classification of chest X-ray images. The project uses a dataset containing images from various sources, organized into categories that represent different types of lung conditions.
